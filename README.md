@@ -1,2 +1,2 @@
-#Rinko
-##Software Design and Analysis Laboratory
+# Rinko
+## Software Design and Analysis Laboratory
